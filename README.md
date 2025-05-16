@@ -18,16 +18,15 @@ This project demonstrates the implementation of a Library Management System usin
 ## Queries and Analysis
 The project includes various SQL queries and data analysis tasks to extract valuable insights from the library's data. Some of the key queries implemented include:
 
-1. Retrieve the book title, category, and rental price of all available books.
-2. List the employee names and their respective salaries in descending order of salary.
-3. Retrieve the book titles and the corresponding customers who have issued those books.
-4. Display the total count of books in each category.
-5. Retrieve the employee names and their positions for the employees whose salaries are above Rs.50,000.
-6. List the customer names who registered before 2022-01-01 and have not issued any books yet.
-7. Display the branch numbers and the total count of employees in each branch.
-8. Display the names of customers who have issued books in the month of June 2023.
-9. Retrieve book titles from the book table containing the category "history".
-10. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
+1. Retrieve All Books Issued by a Specific Employee.
+2. List Members Who Have Issued More Than One Book.
+3. Create Summary Tables.
+4. Retrieve All Books in a Specific Category.
+5. Find Total Rental Income by Category.
+6. List Members Who Registered in the Last 180 Days.
+7. List Employees with Their Branch Manager's Name and their branch details.
+8. Create a Table of Books with Rental Price Above a Certain Threshold 7USD.
+9. Retrieve the List of Books Not Yet Returned.
 
 ### ERD Diagram
 
